@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+
+.showInline {
+    /* li{ */
+        display: inline;
+        list-style: none;
+        margin: 5px;
+    /* } */
+}
+
+.linkActive{
+    color: green  !important;
+    border: 1px solid red;
+}
